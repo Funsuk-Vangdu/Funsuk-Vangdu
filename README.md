@@ -34,7 +34,9 @@ I'm a passionate learner and cybersecurity enthusiast, diving deep into tech —
 
 ### 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/pavitra-dwivedi-9945a42bb)
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pavitra-dwivedi-9945a42bb)
 <!-- Replace the above link with your actual LinkedIn profile URL -->
 
 ---
