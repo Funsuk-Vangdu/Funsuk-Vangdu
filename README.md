@@ -23,12 +23,8 @@ I'm a passionate learner and cybersecurity enthusiast, diving deep into tech —
 #### 🐳 DevOps & Cloud Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Kubeflow](https://img.shields.io/badge/Kubeflow-0052CC?style=for-the-badge&logo=kubeflow&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-#### 🧪 Currently Exploring
-![Quantum Computing](https://img.shields.io/badge/Quantum_Computing-6A0DAD?style=for-the-badge)
-![Blockchain](https://img.shields.io/badge/Blockchain-0C1C2C?style=for-the-badge&logo=blockchaindotcom&logoColor=white)
+
 
 ---
 
